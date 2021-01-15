@@ -1,5 +1,9 @@
 # smart_pathlib - utils for making common path operations interoperable with Cloud object storages
 
+![Test](https://github.com/gfournier/smart_pathlib/workflows/Test/badge.svg)
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PyPI version fury.io](https://badge.fury.io/py/smart-pathlib.svg)](https://pypi.python.org/pypi/smart-pathlib/)
+
 ## What ?
 
 `smart_pathlib` is highly inspired by `smart_open` and provide drop-in
