@@ -1,4 +1,4 @@
-# smart_pathlib - utils for making common path operations interoperable with Cloud object storages
+# smart_pathlib - making common path operations interoperable with Cloud object storages
 
 ![Test](https://github.com/gfournier/smart_pathlib/workflows/Test/badge.svg)
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
